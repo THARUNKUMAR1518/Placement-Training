@@ -9,6 +9,6 @@ while n != 0:
 if s == sum1:
 	print("The given number", s, "is armstrong number")
 else:
-	print("The given number", s, "is not armstrong number")
+	print("The given number", s, "is not armstrong number") 
 
 
